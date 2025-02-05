@@ -1,4 +1,4 @@
-# Rapid Fabrication Temporary Team (RaFTT)
+# Rapid Fabrication Team (RaFT)
 Designing and fabricating various projects to support other AguaClara subteams.
 
 **Spring 2025 Team**  
